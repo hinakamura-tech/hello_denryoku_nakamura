@@ -1,1 +1,5 @@
 # hello_denryoku_nakamura
+20250815
+本日は終戦記念日なり
+
+Cmd＋Sで保存すること
